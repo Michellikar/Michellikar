@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Michellikar
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on any data project
+- 📫 reach me at @michel.likar24@gmail.com
 
 <!---
 Michellikar/Michellikar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
